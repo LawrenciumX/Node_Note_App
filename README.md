@@ -55,7 +55,7 @@ Sample Body:
 
 ### PUT /notes/:id: This endpoint is used to update an existing note. The request body should contain the updated 'text'.
 
-Sample URL:PUT /notes/f4b9f8f9-ced8-43be-83d2-8de4ab179fb6
+Sample URL:PUT /notes/0fe97e70-8168-42a5-aae3-46f59ef25fc9
 
 Sample Body:
 [
@@ -68,7 +68,7 @@ Sample Body:
 
 ### DELETE /notes/:id: This endpoint is used to delete a specific note.
 
-Sample URL:DELETE/notes/385a6660-ffd6-4c45-a96b-62deef46bb11
+Sample URL:DELETE/notes/0fe97e70-8168-42a5-aae3-46f59ef25fc9
 
 # Data Storage
 The data for this application is stored in a local JSON file notes.json.
