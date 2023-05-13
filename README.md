@@ -22,7 +22,6 @@ npm install
 Usage
 
 Run the server:
-
 node app.js or npm start
 
 The server will start running on http://localhost:3000.
