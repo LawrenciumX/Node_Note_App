@@ -36,7 +36,7 @@ The application provides the following endpoints:
 
 Sample URL: GET/notes
 
-Sample URL: GET/notes?id=4
+Sample URL: GET/notes?id=5
 
 ### POST /notes: This endpoint is used to create a new note. The request body should contain an array of note objects, each having 'text' and 'body' properties.
 
